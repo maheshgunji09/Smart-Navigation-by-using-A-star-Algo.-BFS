@@ -244,12 +244,76 @@ body.loaded .loading-overlay {
   margin-bottom: 3px;
 }
 
+.card-title.route-planner-title {
+  font-size: 1.15rem;
+  font-weight: 800;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  justify-content: center;
+  text-align: center;
+  color: var(--text);
+  margin-bottom: 4px;
+}
+
 .title-icon { font-size: 0.8rem; }
 
 .card-subtitle {
   font-size: 0.75rem;
   color: var(--text-3);
   margin-bottom: 16px;
+}
+
+.card-subtitle.text-center {
+  text-align: center;
+  margin-bottom: 16px;
+}
+
+/* ---------- Route Planner Hero Header ---------- */
+.planner-hero-banner {
+  text-align: center;
+  margin-bottom: 22px;
+  padding: 8px 0 2px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.planner-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 4px 14px;
+  background: rgba(99, 102, 241, 0.15);
+  border: 1px solid rgba(99, 102, 241, 0.35);
+  border-radius: 999px;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  color: #818cf8;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+}
+
+.planner-main-title {
+  font-size: 2.6rem;
+  font-weight: 900;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+  background: linear-gradient(135deg, #ffffff 15%, #c7d2fe 55%, #6366f1 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin: 0 0 8px 0;
+  filter: drop-shadow(0 0 24px rgba(99, 102, 241, 0.4));
+  line-height: 1.1;
+}
+
+.planner-main-desc {
+  font-size: 0.95rem;
+  color: var(--text-2);
+  max-width: 650px;
+  margin: 0 auto;
+  line-height: 1.4;
 }
 
 /* ---------- Inputs ---------- */
