@@ -21,8 +21,8 @@ class MapVisualization {
 
     // Toggles
     this.showRoads = true;
-    this.showPoliticalMap = true;
-    this.showStateLabels = true;
+    this.showPoliticalMap = false;
+    this.showStateLabels = false;
     this.hoveredCity = null;
     this.hoveredState = null;
 
@@ -231,12 +231,7 @@ class MapVisualization {
     // 2. Latitude / Longitude Grid
     this._drawGrid(ctx, w, h);
 
-    // 3. Colourful Indian Political Map (State Polygons & Glowing Borders)
-    if (this.showPoliticalMap && typeof IndiaMapData !== 'undefined') {
-      this._drawPoliticalMap(ctx);
-    }
-
-    // 4. Highway Road Network Lines
+    // 3. Highway Road Network Lines
     if (this.showRoads) {
       this._drawRoads(ctx);
     }
