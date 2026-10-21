@@ -142,7 +142,33 @@ body.loaded .loading-overlay {
   padding-left: 10px;
 }
 
-/* Nav */
+/* Header Center - ROUTE PLANNER */
+.header-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+}
+
+.header-route-planner-title {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 1.55rem;
+  font-weight: 900;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  background: linear-gradient(135deg, #ffffff 10%, #c7d2fe 50%, #818cf8 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  filter: drop-shadow(0 0 20px rgba(99, 102, 241, 0.45));
+}
+
+.header-route-planner-title .planner-icon {
+  font-size: 1.4rem;
+  -webkit-text-fill-color: initial;
+}
+
 .main-nav { display: flex; align-items: center; gap: 2px; }
 
 .nav-btn {
