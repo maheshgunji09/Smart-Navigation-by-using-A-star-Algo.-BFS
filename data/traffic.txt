@@ -1,0 +1,11 @@
+# time_of_day|multiplier
+morning|1.4
+afternoon|1.1
+evening|1.6
+night|0.8
+weekend|1.2
+festival|1.8
+rain|1.5
+accident|2.0
+construction|1.7
+vip_movement|1.9

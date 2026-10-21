@@ -1,0 +1,1001 @@
+# id|name|state|lat|lon|isCapital
+0|Amaravati|Andhra Pradesh|16.5062|80.6480|1
+1|Visakhapatnam|Andhra Pradesh|17.6868|83.2185|0
+2|Vijayawada|Andhra Pradesh|16.5062|80.6480|0
+3|Guntur|Andhra Pradesh|16.3067|80.4365|0
+4|Nellore|Andhra Pradesh|14.4426|79.9865|0
+5|Kurnool|Andhra Pradesh|15.8281|78.0373|0
+6|Kadapa|Andhra Pradesh|14.4753|78.8298|0
+7|Tirupati|Andhra Pradesh|13.6288|79.4192|0
+8|Anantapur|Andhra Pradesh|14.6819|77.6006|0
+9|Rajahmundry|Andhra Pradesh|17.0005|81.8040|0
+10|Kakinada|Andhra Pradesh|16.9891|82.2475|0
+11|Ongole|Andhra Pradesh|15.5057|80.0490|0
+12|Chittoor|Andhra Pradesh|13.2172|79.1003|0
+13|Eluru|Andhra Pradesh|16.7107|81.0954|0
+14|Machilipatnam|Andhra Pradesh|16.1875|81.1389|0
+15|Srikakulam|Andhra Pradesh|18.2949|83.8938|0
+16|Vizianagaram|Andhra Pradesh|18.1160|83.4115|0
+17|Porumamilla|Andhra Pradesh|14.9819|78.6767|0
+18|Badvel|Andhra Pradesh|14.7495|79.0664|0
+19|Proddatur|Andhra Pradesh|14.7502|78.5481|0
+20|Itanagar|Arunachal Pradesh|27.0844|93.6053|1
+21|Naharlagun|Arunachal Pradesh|27.1040|93.6952|0
+22|Pasighat|Arunachal Pradesh|28.0669|95.3261|0
+23|Tawang|Arunachal Pradesh|27.5859|91.8594|0
+24|Ziro|Arunachal Pradesh|27.5445|93.8377|0
+25|Bomdila|Arunachal Pradesh|27.2645|92.4155|0
+26|Tezu|Arunachal Pradesh|27.9333|96.1667|0
+27|Along|Arunachal Pradesh|28.1667|94.8000|0
+28|Dispur|Assam|26.1433|91.7898|1
+29|Guwahati|Assam|26.1445|91.7362|0
+30|Silchar|Assam|24.8333|92.7789|0
+31|Dibrugarh|Assam|27.4728|94.9120|0
+32|Jorhat|Assam|26.7509|94.2037|0
+33|Tezpur|Assam|26.6338|92.7926|0
+34|Nagaon|Assam|26.3452|92.6839|0
+35|Tinsukia|Assam|27.4917|95.3600|0
+36|Bongaigaon|Assam|26.4769|90.5583|0
+37|Karimganj|Assam|24.8697|92.3590|0
+38|Patna|Bihar|25.5941|85.1376|1
+39|Gaya|Bihar|24.7914|85.0002|0
+40|Bhagalpur|Bihar|25.2425|86.9842|0
+41|Muzaffarpur|Bihar|26.1197|85.3910|0
+42|Darbhanga|Bihar|26.1542|85.8918|0
+43|Purnia|Bihar|25.7771|87.4753|0
+44|Ara|Bihar|25.5546|84.6636|0
+45|Begusarai|Bihar|25.4182|86.1272|0
+46|Katihar|Bihar|25.5389|87.5714|0
+47|Chapra|Bihar|25.7799|84.7278|0
+48|Munger|Bihar|25.3708|86.4735|0
+49|Sasaram|Bihar|24.9528|84.0286|0
+50|Raipur|Chhattisgarh|21.2514|81.6296|1
+51|Bhilai|Chhattisgarh|21.2090|81.4285|0
+52|Bilaspur|Chhattisgarh|22.0797|82.1409|0
+53|Korba|Chhattisgarh|22.3595|82.7501|0
+54|Durg|Chhattisgarh|21.1901|81.2849|0
+55|Rajnandgaon|Chhattisgarh|21.0972|81.0300|0
+56|Jagdalpur|Chhattisgarh|19.0785|82.0348|0
+57|Ambikapur|Chhattisgarh|23.1206|83.1953|0
+58|Panaji|Goa|15.4909|73.8278|1
+59|Margao|Goa|15.2832|73.9862|0
+60|Vasco da Gama|Goa|15.3959|73.8157|0
+61|Mapusa|Goa|15.5937|73.8142|0
+62|Ponda|Goa|15.4027|74.0078|0
+63|Gandhinagar|Gujarat|23.2156|72.6369|1
+64|Ahmedabad|Gujarat|23.0225|72.5714|0
+65|Surat|Gujarat|21.1702|72.8311|0
+66|Vadodara|Gujarat|22.3072|73.1812|0
+67|Rajkot|Gujarat|22.3039|70.8022|0
+68|Bhavnagar|Gujarat|21.7645|72.1519|0
+69|Jamnagar|Gujarat|22.4707|70.0577|0
+70|Junagadh|Gujarat|21.5222|70.4579|0
+71|Anand|Gujarat|22.5645|72.9289|0
+72|Nadiad|Gujarat|22.6939|72.8617|0
+73|Bharuch|Gujarat|21.7051|72.9959|0
+74|Porbandar|Gujarat|21.6417|69.6293|0
+75|Mehsana|Gujarat|23.5879|72.3693|0
+76|Chandigarh|Haryana|30.7333|76.7794|1
+77|Faridabad|Haryana|28.4089|77.3178|0
+78|Gurugram|Haryana|28.4595|77.0266|0
+79|Panipat|Haryana|29.3909|76.9635|0
+80|Ambala|Haryana|30.3752|76.7821|0
+81|Rohtak|Haryana|28.8955|76.6066|0
+82|Hisar|Haryana|29.1492|75.7217|0
+83|Karnal|Haryana|29.6857|76.9905|0
+84|Sonipat|Haryana|28.9931|77.0151|0
+85|Yamunanagar|Haryana|30.1290|77.2674|0
+86|Shimla|Himachal Pradesh|31.1048|77.1734|1
+87|Manali|Himachal Pradesh|32.2432|77.1892|0
+88|Dharamshala|Himachal Pradesh|32.2190|76.3234|0
+89|Solan|Himachal Pradesh|30.9045|77.0967|0
+90|Mandi|Himachal Pradesh|31.7076|76.9316|0
+91|Kullu|Himachal Pradesh|31.9578|77.1094|0
+92|Hamirpur|Himachal Pradesh|31.6862|76.5217|0
+93|Bilaspur (HP)|Himachal Pradesh|31.3350|76.7566|0
+94|Ranchi|Jharkhand|23.3441|85.3096|1
+95|Jamshedpur|Jharkhand|22.8046|86.2029|0
+96|Dhanbad|Jharkhand|23.7957|86.4304|0
+97|Bokaro|Jharkhand|23.6693|86.1511|0
+98|Deoghar|Jharkhand|24.4839|86.6968|0
+99|Hazaribagh|Jharkhand|23.9925|85.3637|0
+100|Giridih|Jharkhand|24.1854|86.3006|0
+101|Bengaluru|Karnataka|12.9716|77.5946|1
+102|Mysuru|Karnataka|12.2958|76.6394|0
+103|Hubballi|Karnataka|15.3647|75.1240|0
+104|Mangaluru|Karnataka|12.9141|74.8560|0
+105|Belagavi|Karnataka|15.8497|74.4977|0
+106|Kalaburagi|Karnataka|17.3297|76.8343|0
+107|Davangere|Karnataka|14.4644|75.9218|0
+108|Ballari|Karnataka|15.1394|76.9214|0
+109|Vijayapura|Karnataka|16.8302|75.7100|0
+110|Shivamogga|Karnataka|13.9299|75.5681|0
+111|Tumakuru|Karnataka|13.3409|77.1010|0
+112|Udupi|Karnataka|13.3409|74.7421|0
+113|Hassan|Karnataka|13.0033|76.1004|0
+114|Chitradurga|Karnataka|14.2226|76.4023|0
+115|Thiruvananthapuram|Kerala|8.5241|76.9366|1
+116|Kochi|Kerala|9.9312|76.2673|0
+117|Kozhikode|Kerala|11.2588|75.7804|0
+118|Thrissur|Kerala|10.5276|76.2144|0
+119|Kollam|Kerala|8.8932|76.6141|0
+120|Alappuzha|Kerala|9.4981|76.3388|0
+121|Palakkad|Kerala|10.7867|76.6548|0
+122|Kannur|Kerala|11.8745|75.3704|0
+123|Kottayam|Kerala|9.5916|76.5222|0
+124|Malappuram|Kerala|11.0409|76.0788|0
+125|Bhopal|Madhya Pradesh|23.2599|77.4126|1
+126|Indore|Madhya Pradesh|22.7196|75.8577|0
+127|Gwalior|Madhya Pradesh|26.2183|78.1828|0
+128|Jabalpur|Madhya Pradesh|23.1815|79.9864|0
+129|Ujjain|Madhya Pradesh|23.1793|75.7849|0
+130|Sagar|Madhya Pradesh|23.8388|78.7378|0
+131|Dewas|Madhya Pradesh|22.9676|76.0534|0
+132|Satna|Madhya Pradesh|24.6005|80.8322|0
+133|Ratlam|Madhya Pradesh|23.3340|75.0376|0
+134|Rewa|Madhya Pradesh|24.5373|81.3042|0
+135|Katni|Madhya Pradesh|23.8315|80.3929|0
+136|Chhindwara|Madhya Pradesh|22.0574|78.9382|0
+137|Mumbai|Maharashtra|19.0760|72.8777|1
+138|Pune|Maharashtra|18.5204|73.8567|0
+139|Nagpur|Maharashtra|21.1458|79.0882|0
+140|Nashik|Maharashtra|19.9975|73.7898|0
+141|Aurangabad|Maharashtra|19.8762|75.3433|0
+142|Solapur|Maharashtra|17.6599|75.9064|0
+143|Kolhapur|Maharashtra|16.7050|74.2433|0
+144|Amravati|Maharashtra|20.9374|77.7796|0
+145|Thane|Maharashtra|19.2183|72.9781|0
+146|Nanded|Maharashtra|19.1383|77.3210|0
+147|Sangli|Maharashtra|16.8524|74.5815|0
+148|Latur|Maharashtra|18.4088|76.5604|0
+149|Akola|Maharashtra|20.7096|77.0021|0
+150|Jalgaon|Maharashtra|20.9964|75.5626|0
+151|Ratnagiri|Maharashtra|16.9944|73.3000|0
+152|Imphal|Manipur|24.8170|93.9368|1
+153|Thoubal|Manipur|24.6408|93.9989|0
+154|Bishnupur|Manipur|24.6317|93.7712|0
+155|Churachandpur|Manipur|24.3358|93.6844|0
+156|Shillong|Meghalaya|25.5788|91.8933|1
+157|Tura|Meghalaya|25.5138|90.2028|0
+158|Jowai|Meghalaya|25.4523|92.2040|0
+159|Nongstoin|Meghalaya|25.5211|91.2630|0
+160|Aizawl|Mizoram|23.7271|92.7176|1
+161|Lunglei|Mizoram|22.8910|92.7331|0
+162|Champhai|Mizoram|23.4574|93.3298|0
+163|Kohima|Nagaland|25.6751|94.1086|1
+164|Dimapur|Nagaland|25.9091|93.7266|0
+165|Mokokchung|Nagaland|26.3226|94.5162|0
+166|Tuensang|Nagaland|26.2739|94.8285|0
+167|Bhubaneswar|Odisha|20.2961|85.8245|1
+168|Cuttack|Odisha|20.4625|85.8828|0
+169|Rourkela|Odisha|22.2604|84.8536|0
+170|Berhampur|Odisha|19.3150|84.7941|0
+171|Sambalpur|Odisha|21.4669|83.9756|0
+172|Puri|Odisha|19.8135|85.8312|0
+173|Balasore|Odisha|21.4934|86.9335|0
+174|Angul|Odisha|20.8402|85.1015|0
+175|Chandigarh (PB)|Punjab|30.7333|76.7794|1
+176|Ludhiana|Punjab|30.9000|75.8573|0
+177|Amritsar|Punjab|31.6340|74.8723|0
+178|Jalandhar|Punjab|31.3260|75.5762|0
+179|Patiala|Punjab|30.3398|76.3869|0
+180|Bathinda|Punjab|30.2110|74.9455|0
+181|Hoshiarpur|Punjab|31.5322|75.9174|0
+182|Mohali|Punjab|30.7046|76.7179|0
+183|Pathankot|Punjab|32.2643|75.6521|0
+184|Jaipur|Rajasthan|26.9124|75.7873|1
+185|Jodhpur|Rajasthan|26.2389|73.0243|0
+186|Udaipur|Rajasthan|24.5854|73.7125|0
+187|Kota|Rajasthan|25.2138|75.8648|0
+188|Ajmer|Rajasthan|26.4499|74.6399|0
+189|Bikaner|Rajasthan|28.0229|73.3119|0
+190|Alwar|Rajasthan|27.5530|76.6346|0
+191|Bharatpur|Rajasthan|27.2152|77.5030|0
+192|Sikar|Rajasthan|27.6094|75.1399|0
+193|Pali|Rajasthan|25.7711|73.3234|0
+194|Sri Ganganagar|Rajasthan|29.9094|73.8800|0
+195|Bhilwara|Rajasthan|25.3407|74.6313|0
+196|Chittorgarh|Rajasthan|24.8887|74.6269|0
+197|Gangtok|Sikkim|27.3389|88.6065|1
+198|Namchi|Sikkim|27.1667|88.3500|0
+199|Gyalshing|Sikkim|27.2830|88.2670|0
+200|Mangan|Sikkim|27.5083|88.5333|0
+201|Chennai|Tamil Nadu|13.0827|80.2707|1
+202|Coimbatore|Tamil Nadu|11.0168|76.9558|0
+203|Madurai|Tamil Nadu|9.9252|78.1198|0
+204|Tiruchirappalli|Tamil Nadu|10.7905|78.7047|0
+205|Salem|Tamil Nadu|11.6643|78.1460|0
+206|Tirunelveli|Tamil Nadu|8.7139|77.7567|0
+207|Erode|Tamil Nadu|11.3410|77.7172|0
+208|Vellore|Tamil Nadu|12.9165|79.1325|0
+209|Thoothukudi|Tamil Nadu|8.7642|78.1348|0
+210|Dindigul|Tamil Nadu|10.3673|77.9803|0
+211|Thanjavur|Tamil Nadu|10.7867|79.1378|0
+212|Karur|Tamil Nadu|10.9601|78.0766|0
+213|Nagercoil|Tamil Nadu|8.1833|77.4119|0
+214|Kanchipuram|Tamil Nadu|12.8342|79.7036|0
+215|Cuddalore|Tamil Nadu|11.7480|79.7714|0
+216|Hyderabad|Telangana|17.3850|78.4867|1
+217|Warangal|Telangana|17.9689|79.5941|0
+218|Nizamabad|Telangana|18.6725|78.0941|0
+219|Karimnagar|Telangana|18.4386|79.1288|0
+220|Khammam|Telangana|17.2473|80.1514|0
+221|Ramagundam|Telangana|18.7574|79.4741|0
+222|Mahbubnagar|Telangana|16.7376|77.9856|0
+223|Nalgonda|Telangana|17.0575|79.2679|0
+224|Adilabad|Telangana|19.6667|78.5333|0
+225|Siddipet|Telangana|18.1018|78.8482|0
+226|Agartala|Tripura|23.8315|91.2868|1
+227|Udaipur (TR)|Tripura|23.5333|91.4833|0
+228|Dharmanagar|Tripura|24.3728|92.1690|0
+229|Kailashahar|Tripura|24.3319|92.0050|0
+230|Lucknow|Uttar Pradesh|26.8467|80.9462|1
+231|Kanpur|Uttar Pradesh|26.4499|80.3319|0
+232|Agra|Uttar Pradesh|27.1767|78.0081|0
+233|Varanasi|Uttar Pradesh|25.3176|82.9739|0
+234|Prayagraj|Uttar Pradesh|25.4358|81.8463|0
+235|Meerut|Uttar Pradesh|28.9845|77.7064|0
+236|Ghaziabad|Uttar Pradesh|28.6692|77.4538|0
+237|Noida|Uttar Pradesh|28.5355|77.3910|0
+238|Bareilly|Uttar Pradesh|28.3670|79.4304|0
+239|Aligarh|Uttar Pradesh|27.8974|78.0880|0
+240|Moradabad|Uttar Pradesh|28.8386|78.7733|0
+241|Saharanpur|Uttar Pradesh|29.9680|77.5552|0
+242|Gorakhpur|Uttar Pradesh|26.7606|83.3732|0
+243|Firozabad|Uttar Pradesh|27.1591|78.3958|0
+244|Jhansi|Uttar Pradesh|25.4484|78.5685|0
+245|Muzaffarnagar|Uttar Pradesh|29.4727|77.7085|0
+246|Mathura|Uttar Pradesh|27.4924|77.6737|0
+247|Ayodhya|Uttar Pradesh|26.7996|82.2041|0
+248|Ballia|Uttar Pradesh|25.7521|84.1476|0
+249|Dehradun|Uttarakhand|30.3165|78.0322|1
+250|Haridwar|Uttarakhand|29.9457|78.1642|0
+251|Rishikesh|Uttarakhand|30.0869|78.2676|0
+252|Nainital|Uttarakhand|29.3919|79.4542|0
+253|Haldwani|Uttarakhand|29.2183|79.5130|0
+254|Roorkee|Uttarakhand|29.8543|77.8880|0
+255|Rudrapur|Uttarakhand|28.9845|79.4304|0
+256|Kolkata|West Bengal|22.5726|88.3639|1
+257|Howrah|West Bengal|22.5958|88.2636|0
+258|Durgapur|West Bengal|23.5204|87.3119|0
+259|Asansol|West Bengal|23.6739|86.9524|0
+260|Siliguri|West Bengal|26.7271|88.3953|0
+261|Darjeeling|West Bengal|27.0360|88.2627|0
+262|Bardhaman|West Bengal|23.2324|87.8615|0
+263|Malda|West Bengal|25.0119|88.1433|0
+264|Kharagpur|West Bengal|22.3149|87.3100|0
+265|Haldia|West Bengal|22.0257|88.0583|0
+266|Amaravati Town 1|Andhra Pradesh|17.2945|81.2439|0
+267|Visakhapatnam Town 2|Andhra Pradesh|16.8785|83.8673|0
+268|Vijayawada Town 3|Andhra Pradesh|17.2611|80.5412|0
+269|Guntur Town 4|Andhra Pradesh|16.1303|80.3614|0
+270|Nellore Town 5|Andhra Pradesh|14.0544|79.8938|0
+271|Kurnool Town 6|Andhra Pradesh|16.1754|77.2953|0
+272|Kadapa Town 7|Andhra Pradesh|14.8028|78.6598|0
+273|Tirupati Town 8|Andhra Pradesh|13.4061|78.5791|0
+274|Anantapur Town 9|Andhra Pradesh|13.9253|77.1361|0
+275|Rajahmundry Town 10|Andhra Pradesh|16.4428|82.1531|0
+276|Kakinada Town 11|Andhra Pradesh|17.0004|82.8886|0
+277|Ongole Town 12|Andhra Pradesh|15.6085|80.9421|0
+278|Chittoor Town 13|Andhra Pradesh|13.0183|79.5841|0
+279|Eluru Town 14|Andhra Pradesh|17.0042|80.8691|0
+280|Machilipatnam Town 15|Andhra Pradesh|15.9130|81.4795|0
+281|Srikakulam Town 16|Andhra Pradesh|18.5417|83.1308|0
+282|Vizianagaram Town 17|Andhra Pradesh|17.8350|83.2020|0
+283|Porumamilla Town 18|Andhra Pradesh|14.1495|79.2244|0
+284|Badvel Town 19|Andhra Pradesh|14.0259|79.0777|0
+285|Proddatur Town 20|Andhra Pradesh|14.2355|78.3724|0
+286|Amaravati Town 21|Andhra Pradesh|16.8242|80.6632|0
+287|Visakhapatnam Town 22|Andhra Pradesh|17.5249|83.8477|0
+288|Vijayawada Town 23|Andhra Pradesh|16.4876|81.2447|0
+289|Guntur Town 24|Andhra Pradesh|16.7402|81.2260|0
+290|Nellore Town 25|Andhra Pradesh|14.3203|79.7559|0
+291|Kurnool Town 26|Andhra Pradesh|16.3327|78.0499|0
+292|Kadapa Town 27|Andhra Pradesh|14.6847|78.6383|0
+293|Tirupati Town 28|Andhra Pradesh|13.9554|79.7484|0
+294|Anantapur Town 29|Andhra Pradesh|14.3530|78.1215|0
+295|Rajahmundry Town 30|Andhra Pradesh|16.8371|82.3604|0
+296|Kakinada Town 31|Andhra Pradesh|16.6970|82.9203|0
+297|Ongole Town 32|Andhra Pradesh|15.3380|79.8771|0
+298|Chittoor Town 33|Andhra Pradesh|13.5710|78.2596|0
+299|Eluru Town 34|Andhra Pradesh|17.4364|80.9004|0
+300|Machilipatnam Town 35|Andhra Pradesh|16.6342|81.0971|0
+301|Srikakulam Town 36|Andhra Pradesh|18.0546|84.6234|0
+302|Vizianagaram Town 37|Andhra Pradesh|18.1632|83.8718|0
+303|Porumamilla Town 38|Andhra Pradesh|14.6044|78.0695|0
+304|Badvel Town 39|Andhra Pradesh|13.9769|78.2465|0
+305|Proddatur Town 40|Andhra Pradesh|14.9736|78.7119|0
+306|Amaravati Town 41|Andhra Pradesh|16.1041|80.3860|0
+307|Visakhapatnam Town 42|Andhra Pradesh|17.6217|83.9720|0
+308|Vijayawada Town 43|Andhra Pradesh|16.6903|81.0820|0
+309|Guntur Town 44|Andhra Pradesh|16.9011|80.5328|0
+310|Nellore Town 45|Andhra Pradesh|15.1845|79.7426|0
+311|Kurnool Town 46|Andhra Pradesh|15.2451|78.2612|0
+312|Kadapa Town 47|Andhra Pradesh|14.2221|78.6018|0
+313|Tirupati Town 48|Andhra Pradesh|13.3087|79.3275|0
+314|Anantapur Town 49|Andhra Pradesh|13.8813|77.3435|0
+315|Rajahmundry Town 50|Andhra Pradesh|17.5357|81.2196|0
+316|Kakinada Town 51|Andhra Pradesh|17.8717|83.1322|0
+317|Ongole Town 52|Andhra Pradesh|15.2236|79.4684|0
+318|Chittoor Town 53|Andhra Pradesh|12.9769|79.9657|0
+319|Eluru Town 54|Andhra Pradesh|16.0870|81.4886|0
+320|Machilipatnam Town 55|Andhra Pradesh|16.0046|81.1016|0
+321|Itanagar Town 1|Arunachal Pradesh|27.9311|93.3942|0
+322|Naharlagun Town 2|Arunachal Pradesh|27.6250|93.7760|0
+323|Pasighat Town 3|Arunachal Pradesh|28.4957|95.1477|0
+324|Tawang Town 4|Arunachal Pradesh|26.7917|91.0466|0
+325|Ziro Town 5|Arunachal Pradesh|27.4464|94.5320|0
+326|Bomdila Town 6|Arunachal Pradesh|26.7542|92.9437|0
+327|Tezu Town 7|Arunachal Pradesh|27.3368|95.6363|0
+328|Along Town 8|Arunachal Pradesh|27.3945|95.4934|0
+329|Itanagar Town 9|Arunachal Pradesh|27.0115|93.6779|0
+330|Naharlagun Town 10|Arunachal Pradesh|26.4810|93.1304|0
+331|Pasighat Town 11|Arunachal Pradesh|27.1787|94.7524|0
+332|Tawang Town 12|Arunachal Pradesh|27.4931|92.0071|0
+333|Ziro Town 13|Arunachal Pradesh|28.2027|94.0862|0
+334|Bomdila Town 14|Arunachal Pradesh|27.3078|91.9009|0
+335|Tezu Town 15|Arunachal Pradesh|27.5759|95.8194|0
+336|Along Town 16|Arunachal Pradesh|28.0898|94.4338|0
+337|Itanagar Town 17|Arunachal Pradesh|26.9592|93.8400|0
+338|Naharlagun Town 18|Arunachal Pradesh|26.7070|93.3491|0
+339|Pasighat Town 19|Arunachal Pradesh|28.3248|95.0456|0
+340|Tawang Town 20|Arunachal Pradesh|27.9819|91.1646|0
+341|Ziro Town 21|Arunachal Pradesh|26.9967|93.2683|0
+342|Bomdila Town 22|Arunachal Pradesh|26.6821|92.7542|0
+343|Dispur Town 1|Assam|26.1570|91.3582|0
+344|Guwahati Town 2|Assam|26.3683|92.0925|0
+345|Silchar Town 3|Assam|24.0698|92.2723|0
+346|Dibrugarh Town 4|Assam|26.6600|94.7982|0
+347|Jorhat Town 5|Assam|26.0839|94.7577|0
+348|Tezpur Town 6|Assam|26.8006|91.9023|0
+349|Nagaon Town 7|Assam|27.0896|92.9061|0
+350|Tinsukia Town 8|Assam|27.5785|95.5955|0
+351|Bongaigaon Town 9|Assam|25.7345|90.9834|0
+352|Karimganj Town 10|Assam|24.0873|91.5927|0
+353|Dispur Town 11|Assam|25.7048|91.6870|0
+354|Guwahati Town 12|Assam|26.7828|91.1796|0
+355|Silchar Town 13|Assam|25.5946|93.2321|0
+356|Dibrugarh Town 14|Assam|27.1476|94.8053|0
+357|Jorhat Town 15|Assam|26.5294|94.6857|0
+358|Tezpur Town 16|Assam|26.0487|92.9150|0
+359|Nagaon Town 17|Assam|26.2128|92.2699|0
+360|Tinsukia Town 18|Assam|27.6814|96.0082|0
+361|Bongaigaon Town 19|Assam|26.7714|90.4818|0
+362|Karimganj Town 20|Assam|24.8360|93.2205|0
+363|Dispur Town 21|Assam|26.2358|90.9970|0
+364|Guwahati Town 22|Assam|25.2701|91.8665|0
+365|Silchar Town 23|Assam|24.7278|92.6667|0
+366|Dibrugarh Town 24|Assam|27.7141|95.4796|0
+367|Jorhat Town 25|Assam|25.8675|94.8599|0
+368|Tezpur Town 26|Assam|26.8221|93.2549|0
+369|Nagaon Town 27|Assam|26.9849|92.4691|0
+370|Tinsukia Town 28|Assam|28.3065|96.0467|0
+371|Patna Town 1|Bihar|25.5920|85.6365|0
+372|Gaya Town 2|Bihar|25.5852|85.7340|0
+373|Bhagalpur Town 3|Bihar|25.4035|86.9555|0
+374|Muzaffarpur Town 4|Bihar|25.5135|85.9530|0
+375|Darbhanga Town 5|Bihar|26.4675|85.4770|0
+376|Purnia Town 6|Bihar|26.3629|88.0754|0
+377|Ara Town 7|Bihar|25.5592|84.5969|0
+378|Begusarai Town 8|Bihar|25.8797|86.0325|0
+379|Katihar Town 9|Bihar|25.2148|87.6438|0
+380|Chapra Town 10|Bihar|25.2078|84.2496|0
+381|Munger Town 11|Bihar|25.5137|87.3380|0
+382|Sasaram Town 12|Bihar|25.7819|83.1981|0
+383|Patna Town 13|Bihar|26.4685|84.7031|0
+384|Gaya Town 14|Bihar|24.7002|84.2797|0
+385|Bhagalpur Town 15|Bihar|24.9710|87.6428|0
+386|Muzaffarpur Town 16|Bihar|26.0426|84.4959|0
+387|Darbhanga Town 17|Bihar|25.4096|86.0462|0
+388|Purnia Town 18|Bihar|24.9632|87.0928|0
+389|Ara Town 19|Bihar|26.1719|85.4235|0
+390|Begusarai Town 20|Bihar|25.4844|85.4462|0
+391|Katihar Town 21|Bihar|25.6986|88.3308|0
+392|Chapra Town 22|Bihar|25.4294|84.7967|0
+393|Munger Town 23|Bihar|24.8432|86.9807|0
+394|Sasaram Town 24|Bihar|25.1260|83.3725|0
+395|Patna Town 25|Bihar|25.3788|85.1921|0
+396|Gaya Town 26|Bihar|25.6284|85.3369|0
+397|Bhagalpur Town 27|Bihar|24.6096|86.0845|0
+398|Muzaffarpur Town 28|Bihar|26.3009|85.4173|0
+399|Darbhanga Town 29|Bihar|25.5312|86.7035|0
+400|Purnia Town 30|Bihar|26.3754|87.7641|0
+401|Ara Town 31|Bihar|24.8484|85.1442|0
+402|Begusarai Town 32|Bihar|25.7135|86.5912|0
+403|Katihar Town 33|Bihar|25.0850|88.0279|0
+404|Raipur Town 1|Chhattisgarh|20.4675|80.8962|0
+405|Bhilai Town 2|Chhattisgarh|21.3748|81.6597|0
+406|Bilaspur Town 3|Chhattisgarh|22.9632|82.8914|0
+407|Korba Town 4|Chhattisgarh|22.3160|82.3809|0
+408|Durg Town 5|Chhattisgarh|20.4860|80.8449|0
+409|Rajnandgaon Town 6|Chhattisgarh|21.6535|81.4901|0
+410|Jagdalpur Town 7|Chhattisgarh|18.2630|81.9942|0
+411|Ambikapur Town 8|Chhattisgarh|22.3119|83.4320|0
+412|Raipur Town 9|Chhattisgarh|21.6756|82.2133|0
+413|Bhilai Town 10|Chhattisgarh|21.9142|81.9864|0
+414|Bilaspur Town 11|Chhattisgarh|22.2477|82.5908|0
+415|Korba Town 12|Chhattisgarh|22.9077|82.6648|0
+416|Durg Town 13|Chhattisgarh|20.6425|81.7509|0
+417|Rajnandgaon Town 14|Chhattisgarh|21.0442|81.6806|0
+418|Jagdalpur Town 15|Chhattisgarh|19.1021|82.3875|0
+419|Ambikapur Town 16|Chhattisgarh|23.9265|83.1831|0
+420|Raipur Town 17|Chhattisgarh|20.3830|81.8662|0
+421|Bhilai Town 18|Chhattisgarh|20.5102|81.2712|0
+422|Bilaspur Town 19|Chhattisgarh|22.5559|82.7738|0
+423|Korba Town 20|Chhattisgarh|22.2863|83.1803|0
+424|Durg Town 21|Chhattisgarh|20.5215|81.7289|0
+425|Rajnandgaon Town 22|Chhattisgarh|21.3582|81.2445|0
+426|Panaji Town 1|Goa|15.4769|73.1521|0
+427|Margao Town 2|Goa|14.9108|73.4089|0
+428|Vasco da Gama Town 3|Goa|15.5055|74.3662|0
+429|Mapusa Town 4|Goa|14.9207|73.7861|0
+430|Ponda Town 5|Goa|14.6728|74.2783|0
+431|Panaji Town 6|Goa|15.6253|74.1463|0
+432|Margao Town 7|Goa|16.0483|74.2357|0
+433|Vasco da Gama Town 8|Goa|15.0254|73.3639|0
+434|Mapusa Town 9|Goa|16.3861|73.6292|0
+435|Ponda Town 10|Goa|14.6384|74.7299|0
+436|Panaji Town 11|Goa|14.5992|73.6310|0
+437|Margao Town 12|Goa|16.1693|74.4476|0
+438|Vasco da Gama Town 13|Goa|14.9740|74.2139|0
+439|Mapusa Town 14|Goa|15.1132|73.1676|0
+440|Gandhinagar Town 1|Gujarat|24.0162|72.6518|0
+441|Ahmedabad Town 2|Gujarat|23.0893|72.2757|0
+442|Surat Town 3|Gujarat|21.9417|73.0212|0
+443|Vadodara Town 4|Gujarat|22.2708|72.2824|0
+444|Rajkot Town 5|Gujarat|22.0477|71.3513|0
+445|Bhavnagar Town 6|Gujarat|20.9032|72.1924|0
+446|Jamnagar Town 7|Gujarat|22.8461|70.2617|0
+447|Junagadh Town 8|Gujarat|21.1753|69.8952|0
+448|Anand Town 9|Gujarat|22.7046|72.7471|0
+449|Nadiad Town 10|Gujarat|22.9201|73.1615|0
+450|Bharuch Town 11|Gujarat|21.6245|72.4877|0
+451|Porbandar Town 12|Gujarat|22.4650|68.9859|0
+452|Mehsana Town 13|Gujarat|23.3517|72.6449|0
+453|Gandhinagar Town 14|Gujarat|22.4605|72.9498|0
+454|Ahmedabad Town 15|Gujarat|22.7082|73.3709|0
+455|Surat Town 16|Gujarat|21.0676|72.8326|0
+456|Vadodara Town 17|Gujarat|22.2049|73.4700|0
+457|Rajkot Town 18|Gujarat|22.9559|71.6565|0
+458|Bhavnagar Town 19|Gujarat|22.0497|71.4125|0
+459|Jamnagar Town 20|Gujarat|22.0353|69.2599|0
+460|Junagadh Town 21|Gujarat|21.5563|70.4507|0
+461|Anand Town 22|Gujarat|21.9567|72.8767|0
+462|Nadiad Town 23|Gujarat|22.0995|73.6060|0
+463|Bharuch Town 24|Gujarat|21.3065|73.4941|0
+464|Porbandar Town 25|Gujarat|21.2854|68.8000|0
+465|Mehsana Town 26|Gujarat|23.1719|73.0191|0
+466|Gandhinagar Town 27|Gujarat|23.6832|71.8213|0
+467|Ahmedabad Town 28|Gujarat|23.7551|71.8652|0
+468|Surat Town 29|Gujarat|20.9968|72.5475|0
+469|Vadodara Town 30|Gujarat|22.7554|73.6120|0
+470|Rajkot Town 31|Gujarat|23.0335|70.4601|0
+471|Bhavnagar Town 32|Gujarat|22.1638|71.6668|0
+472|Jamnagar Town 33|Gujarat|22.0233|69.8578|0
+473|Junagadh Town 34|Gujarat|20.9072|69.8901|0
+474|Anand Town 35|Gujarat|22.4307|72.9283|0
+475|Nadiad Town 36|Gujarat|22.3984|72.1820|0
+476|Chandigarh Town 1|Haryana|31.4918|76.0057|0
+477|Faridabad Town 2|Haryana|27.9174|77.5154|0
+478|Gurugram Town 3|Haryana|27.5850|77.8481|0
+479|Panipat Town 4|Haryana|29.7193|76.7409|0
+480|Ambala Town 5|Haryana|29.5977|76.2777|0
+481|Rohtak Town 6|Haryana|28.8319|77.4463|0
+482|Hisar Town 7|Haryana|29.4178|75.8153|0
+483|Karnal Town 8|Haryana|29.4170|76.2424|0
+484|Sonipat Town 9|Haryana|28.2225|77.7744|0
+485|Yamunanagar Town 10|Haryana|30.9317|77.2696|0
+486|Chandigarh Town 11|Haryana|29.9535|76.4383|0
+487|Faridabad Town 12|Haryana|27.6868|76.6930|0
+488|Gurugram Town 13|Haryana|28.9032|76.4548|0
+489|Panipat Town 14|Haryana|28.9501|77.4058|0
+490|Ambala Town 15|Haryana|29.8350|76.5377|0
+491|Rohtak Town 16|Haryana|29.1262|75.7363|0
+492|Hisar Town 17|Haryana|29.2025|74.9764|0
+493|Karnal Town 18|Haryana|29.7921|76.1768|0
+494|Sonipat Town 19|Haryana|28.2229|76.2500|0
+495|Yamunanagar Town 20|Haryana|30.8192|76.6503|0
+496|Chandigarh Town 21|Haryana|30.1312|77.5802|0
+497|Faridabad Town 22|Haryana|29.2861|77.1661|0
+498|Gurugram Town 23|Haryana|29.3456|76.4154|0
+499|Panipat Town 24|Haryana|28.7819|77.7084|0
+500|Ambala Town 25|Haryana|29.6333|77.1425|0
+501|Rohtak Town 26|Haryana|28.8374|77.1072|0
+502|Hisar Town 27|Haryana|28.3148|76.3829|0
+503|Karnal Town 28|Haryana|29.9826|76.6368|0
+504|Shimla Town 1|Himachal Pradesh|30.7716|77.2582|0
+505|Manali Town 2|Himachal Pradesh|31.8917|77.7580|0
+506|Dharamshala Town 3|Himachal Pradesh|32.1120|76.2134|0
+507|Solan Town 4|Himachal Pradesh|31.4565|76.6606|0
+508|Mandi Town 5|Himachal Pradesh|32.2128|77.1355|0
+509|Kullu Town 6|Himachal Pradesh|32.3883|77.9086|0
+510|Hamirpur Town 7|Himachal Pradesh|31.4990|75.6408|0
+511|Bilaspur (HP) Town 8|Himachal Pradesh|30.8787|77.4861|0
+512|Shimla Town 9|Himachal Pradesh|31.2016|78.0502|0
+513|Manali Town 10|Himachal Pradesh|32.0523|77.4770|0
+514|Dharamshala Town 11|Himachal Pradesh|31.5071|76.4788|0
+515|Solan Town 12|Himachal Pradesh|30.5010|77.0755|0
+516|Mandi Town 13|Himachal Pradesh|31.0801|76.7273|0
+517|Kullu Town 14|Himachal Pradesh|31.9419|76.6667|0
+518|Hamirpur Town 15|Himachal Pradesh|31.0862|75.8404|0
+519|Bilaspur (HP) Town 16|Himachal Pradesh|31.9174|77.5755|0
+520|Shimla Town 17|Himachal Pradesh|31.0807|77.0506|0
+521|Manali Town 18|Himachal Pradesh|32.5796|76.5228|0
+522|Dharamshala Town 19|Himachal Pradesh|31.5517|76.1030|0
+523|Solan Town 20|Himachal Pradesh|30.8024|77.6229|0
+524|Mandi Town 21|Himachal Pradesh|32.2060|76.2902|0
+525|Kullu Town 22|Himachal Pradesh|32.5975|76.6994|0
+526|Ranchi Town 1|Jharkhand|23.5753|85.0268|0
+527|Jamshedpur Town 2|Jharkhand|22.8707|86.1561|0
+528|Dhanbad Town 3|Jharkhand|24.2044|86.7336|0
+529|Bokaro Town 4|Jharkhand|23.2707|85.9863|0
+530|Deoghar Town 5|Jharkhand|24.2074|86.2322|0
+531|Hazaribagh Town 6|Jharkhand|24.1987|84.4644|0
+532|Giridih Town 7|Jharkhand|24.4217|85.5997|0
+533|Ranchi Town 8|Jharkhand|23.3467|85.5276|0
+534|Jamshedpur Town 9|Jharkhand|22.2172|86.8592|0
+535|Dhanbad Town 10|Jharkhand|23.8413|86.0452|0
+536|Bokaro Town 11|Jharkhand|24.4901|86.3975|0
+537|Deoghar Town 12|Jharkhand|24.4205|86.5563|0
+538|Hazaribagh Town 13|Jharkhand|23.3562|85.2379|0
+539|Giridih Town 14|Jharkhand|23.2868|86.7630|0
+540|Ranchi Town 15|Jharkhand|23.2056|85.0848|0
+541|Jamshedpur Town 16|Jharkhand|23.4826|86.3223|0
+542|Dhanbad Town 17|Jharkhand|22.9378|85.9826|0
+543|Bokaro Town 18|Jharkhand|23.0429|85.7155|0
+544|Deoghar Town 19|Jharkhand|24.2255|87.0481|0
+545|Bengaluru Town 1|Karnataka|12.3163|77.5108|0
+546|Mysuru Town 2|Karnataka|12.8007|76.5890|0
+547|Hubballi Town 3|Karnataka|15.0529|75.7796|0
+548|Mangaluru Town 4|Karnataka|13.6406|75.1097|0
+549|Belagavi Town 5|Karnataka|15.4466|74.8271|0
+550|Kalaburagi Town 6|Karnataka|17.6600|76.4580|0
+551|Davangere Town 7|Karnataka|14.3133|75.6332|0
+552|Ballari Town 8|Karnataka|15.0751|76.1457|0
+553|Vijayapura Town 9|Karnataka|16.0109|76.1505|0
+554|Shivamogga Town 10|Karnataka|13.1413|74.8492|0
+555|Tumakuru Town 11|Karnataka|12.4562|77.9205|0
+556|Udupi Town 12|Karnataka|12.8530|75.4553|0
+557|Hassan Town 13|Karnataka|13.0587|76.3319|0
+558|Chitradurga Town 14|Karnataka|13.4708|75.8273|0
+559|Bengaluru Town 15|Karnataka|13.0769|77.1431|0
+560|Mysuru Town 16|Karnataka|13.1888|76.5893|0
+561|Hubballi Town 17|Karnataka|16.2567|75.6054|0
+562|Mangaluru Town 18|Karnataka|12.5174|74.9838|0
+563|Belagavi Town 19|Karnataka|15.4820|75.1165|0
+564|Kalaburagi Town 20|Karnataka|16.5766|77.4772|0
+565|Davangere Town 21|Karnataka|14.6488|76.7647|0
+566|Ballari Town 22|Karnataka|14.6277|76.9290|0
+567|Vijayapura Town 23|Karnataka|16.5042|75.7433|0
+568|Shivamogga Town 24|Karnataka|13.9760|76.0376|0
+569|Tumakuru Town 25|Karnataka|12.6260|76.7238|0
+570|Udupi Town 26|Karnataka|13.9875|74.4281|0
+571|Hassan Town 27|Karnataka|13.1265|75.7411|0
+572|Chitradurga Town 28|Karnataka|14.0043|77.1449|0
+573|Bengaluru Town 29|Karnataka|12.1941|78.4106|0
+574|Mysuru Town 30|Karnataka|12.7067|76.0601|0
+575|Hubballi Town 31|Karnataka|14.9719|74.6791|0
+576|Mangaluru Town 32|Karnataka|13.6618|75.0003|0
+577|Belagavi Town 33|Karnataka|15.8326|73.6510|0
+578|Kalaburagi Town 34|Karnataka|16.7374|77.6830|0
+579|Davangere Town 35|Karnataka|14.0886|75.4265|0
+580|Ballari Town 36|Karnataka|14.2892|77.4707|0
+581|Vijayapura Town 37|Karnataka|16.6123|75.5564|0
+582|Shivamogga Town 38|Karnataka|14.7472|75.7318|0
+583|Tumakuru Town 39|Karnataka|12.8523|76.7200|0
+584|Thiruvananthapuram Town 1|Kerala|7.7339|76.5977|0
+585|Kochi Town 2|Kerala|9.2905|76.4648|0
+586|Kozhikode Town 3|Kerala|10.9950|76.1970|0
+587|Thrissur Town 4|Kerala|11.1687|75.8166|0
+588|Kollam Town 5|Kerala|9.6978|77.3093|0
+589|Alappuzha Town 6|Kerala|9.1775|76.7979|0
+590|Palakkad Town 7|Kerala|10.6719|76.4569|0
+591|Kannur Town 8|Kerala|11.5248|75.5995|0
+592|Kottayam Town 9|Kerala|8.8617|76.3133|0
+593|Malappuram Town 10|Kerala|11.3534|75.9692|0
+594|Thiruvananthapuram Town 11|Kerala|9.1081|76.5087|0
+595|Kochi Town 12|Kerala|10.8256|75.4092|0
+596|Kozhikode Town 13|Kerala|11.5007|76.4452|0
+597|Thrissur Town 14|Kerala|10.4540|77.0504|0
+598|Kollam Town 15|Kerala|8.2162|76.2626|0
+599|Alappuzha Town 16|Kerala|8.6024|75.4717|0
+600|Palakkad Town 17|Kerala|10.8283|77.1379|0
+601|Kannur Town 18|Kerala|12.4108|76.1793|0
+602|Kottayam Town 19|Kerala|10.2069|76.2354|0
+603|Malappuram Town 20|Kerala|11.8313|75.4048|0
+604|Thiruvananthapuram Town 21|Kerala|7.8986|77.0205|0
+605|Kochi Town 22|Kerala|9.9980|75.7879|0
+606|Kozhikode Town 23|Kerala|10.6163|74.9036|0
+607|Thrissur Town 24|Kerala|9.9099|76.4689|0
+608|Kollam Town 25|Kerala|8.4491|76.6920|0
+609|Alappuzha Town 26|Kerala|8.8123|75.7150|0
+610|Palakkad Town 27|Kerala|10.8891|77.5068|0
+611|Kannur Town 28|Kerala|12.3088|75.7720|0
+612|Bhopal Town 1|Madhya Pradesh|22.9358|76.5662|0
+613|Indore Town 2|Madhya Pradesh|21.9367|75.6903|0
+614|Gwalior Town 3|Madhya Pradesh|25.3952|79.0568|0
+615|Jabalpur Town 4|Madhya Pradesh|22.8023|80.0127|0
+616|Ujjain Town 5|Madhya Pradesh|22.3721|75.7603|0
+617|Sagar Town 6|Madhya Pradesh|23.3114|79.1693|0
+618|Dewas Town 7|Madhya Pradesh|22.2904|75.6681|0
+619|Satna Town 8|Madhya Pradesh|24.3628|81.0050|0
+620|Ratlam Town 9|Madhya Pradesh|22.8054|75.0032|0
+621|Rewa Town 10|Madhya Pradesh|24.3372|80.8328|0
+622|Katni Town 11|Madhya Pradesh|24.4197|80.5068|0
+623|Chhindwara Town 12|Madhya Pradesh|21.8311|79.0181|0
+624|Bhopal Town 13|Madhya Pradesh|24.1235|77.4890|0
+625|Indore Town 14|Madhya Pradesh|22.8255|76.3685|0
+626|Gwalior Town 15|Madhya Pradesh|25.9072|77.6297|0
+627|Jabalpur Town 16|Madhya Pradesh|22.5809|80.6533|0
+628|Ujjain Town 17|Madhya Pradesh|23.2381|75.9757|0
+629|Sagar Town 18|Madhya Pradesh|24.4491|79.1979|0
+630|Dewas Town 19|Madhya Pradesh|22.9711|76.9477|0
+631|Satna Town 20|Madhya Pradesh|25.4223|80.9712|0
+632|Ratlam Town 21|Madhya Pradesh|23.0992|75.9255|0
+633|Rewa Town 22|Madhya Pradesh|24.6506|81.4978|0
+634|Katni Town 23|Madhya Pradesh|23.8933|80.2740|0
+635|Chhindwara Town 24|Madhya Pradesh|21.3846|78.0432|0
+636|Bhopal Town 25|Madhya Pradesh|23.6311|77.1282|0
+637|Indore Town 26|Madhya Pradesh|21.8535|76.3395|0
+638|Gwalior Town 27|Madhya Pradesh|27.0094|78.8994|0
+639|Jabalpur Town 28|Madhya Pradesh|23.8501|80.2064|0
+640|Ujjain Town 29|Madhya Pradesh|22.6672|76.3484|0
+641|Sagar Town 30|Madhya Pradesh|24.6612|78.3712|0
+642|Dewas Town 31|Madhya Pradesh|23.2127|76.2285|0
+643|Satna Town 32|Madhya Pradesh|24.2995|80.7539|0
+644|Ratlam Town 33|Madhya Pradesh|23.5770|74.5655|0
+645|Mumbai Town 1|Maharashtra|19.7088|73.5043|0
+646|Pune Town 2|Maharashtra|17.6536|73.5295|0
+647|Nagpur Town 3|Maharashtra|20.9668|78.4021|0
+648|Nashik Town 4|Maharashtra|19.8424|74.2578|0
+649|Aurangabad Town 5|Maharashtra|19.4956|75.9565|0
+650|Solapur Town 6|Maharashtra|17.9745|75.4432|0
+651|Kolhapur Town 7|Maharashtra|16.7637|74.1891|0
+652|Amravati Town 8|Maharashtra|20.7464|77.8251|0
+653|Thane Town 9|Maharashtra|18.7969|73.1644|0
+654|Nanded Town 10|Maharashtra|18.4976|77.5511|0
+655|Sangli Town 11|Maharashtra|16.4128|73.9520|0
+656|Latur Town 12|Maharashtra|18.6647|76.2910|0
+657|Akola Town 13|Maharashtra|21.0940|77.0248|0
+658|Jalgaon Town 14|Maharashtra|20.6220|75.8757|0
+659|Ratnagiri Town 15|Maharashtra|16.7471|73.9017|0
+660|Mumbai Town 16|Maharashtra|18.4168|73.4767|0
+661|Pune Town 17|Maharashtra|17.8045|74.2700|0
+662|Nagpur Town 18|Maharashtra|21.2954|79.2274|0
+663|Nashik Town 19|Maharashtra|19.1044|73.7529|0
+664|Aurangabad Town 20|Maharashtra|20.4448|75.6268|0
+665|Solapur Town 21|Maharashtra|17.4514|75.2859|0
+666|Kolhapur Town 22|Maharashtra|17.3483|74.9867|0
+667|Amravati Town 23|Maharashtra|20.6078|77.7416|0
+668|Thane Town 24|Maharashtra|19.3343|72.2413|0
+669|Nanded Town 25|Maharashtra|19.2100|77.4579|0
+670|Sangli Town 26|Maharashtra|17.5275|73.9592|0
+671|Latur Town 27|Maharashtra|18.8677|76.1614|0
+672|Akola Town 28|Maharashtra|20.1777|77.7469|0
+673|Jalgaon Town 29|Maharashtra|21.3023|76.1879|0
+674|Ratnagiri Town 30|Maharashtra|17.1468|73.0955|0
+675|Mumbai Town 31|Maharashtra|19.5103|72.4425|0
+676|Pune Town 32|Maharashtra|17.9456|74.1067|0
+677|Nagpur Town 33|Maharashtra|20.9406|78.3672|0
+678|Nashik Town 34|Maharashtra|20.1145|74.4115|0
+679|Aurangabad Town 35|Maharashtra|19.8429|74.5763|0
+680|Solapur Town 36|Maharashtra|17.5291|75.3012|0
+681|Kolhapur Town 37|Maharashtra|17.3679|74.2917|0
+682|Amravati Town 38|Maharashtra|20.4041|77.4528|0
+683|Thane Town 39|Maharashtra|19.7747|72.3287|0
+684|Nanded Town 40|Maharashtra|18.4010|76.6176|0
+685|Sangli Town 41|Maharashtra|16.0801|73.9255|0
+686|Imphal Town 1|Manipur|24.7824|93.0979|0
+687|Thoubal Town 2|Manipur|25.2011|93.6690|0
+688|Bishnupur Town 3|Manipur|24.1420|93.7010|0
+689|Churachandpur Town 4|Manipur|24.4384|93.4409|0
+690|Imphal Town 5|Manipur|25.0923|93.5628|0
+691|Thoubal Town 6|Manipur|24.0503|93.2431|0
+692|Bishnupur Town 7|Manipur|24.3651|92.8783|0
+693|Churachandpur Town 8|Manipur|23.8001|93.2909|0
+694|Imphal Town 9|Manipur|24.4844|93.7504|0
+695|Thoubal Town 10|Manipur|23.7745|94.7605|0
+696|Bishnupur Town 11|Manipur|23.9029|93.0772|0
+697|Shillong Town 1|Meghalaya|26.1508|91.6588|0
+698|Tura Town 2|Meghalaya|25.3706|89.4586|0
+699|Jowai Town 3|Meghalaya|25.8711|92.6351|0
+700|Nongstoin Town 4|Meghalaya|25.6103|92.1327|0
+701|Shillong Town 5|Meghalaya|26.1913|92.7352|0
+702|Tura Town 6|Meghalaya|25.7380|90.2189|0
+703|Jowai Town 7|Meghalaya|26.1891|91.8365|0
+704|Nongstoin Town 8|Meghalaya|24.8841|90.9182|0
+705|Shillong Town 9|Meghalaya|25.1767|91.9675|0
+706|Tura Town 10|Meghalaya|24.7972|90.8512|0
+707|Jowai Town 11|Meghalaya|26.1908|91.3534|0
+708|Aizawl Town 1|Mizoram|22.9673|92.9852|0
+709|Lunglei Town 2|Mizoram|23.0623|93.4128|0
+710|Champhai Town 3|Mizoram|24.2973|94.0848|0
+711|Aizawl Town 4|Mizoram|22.9836|92.1244|0
+712|Lunglei Town 5|Mizoram|23.3179|93.4297|0
+713|Champhai Town 6|Mizoram|23.8616|93.8783|0
+714|Aizawl Town 7|Mizoram|23.1523|92.9319|0
+715|Lunglei Town 8|Mizoram|22.4289|92.6935|0
+716|Kohima Town 1|Nagaland|26.0216|93.6538|0
+717|Dimapur Town 2|Nagaland|25.1179|92.9365|0
+718|Mokokchung Town 3|Nagaland|25.9180|93.8167|0
+719|Tuensang Town 4|Nagaland|25.8761|94.1979|0
+720|Kohima Town 5|Nagaland|25.9965|94.7116|0
+721|Dimapur Town 6|Nagaland|26.2451|93.3180|0
+722|Mokokchung Town 7|Nagaland|25.8286|93.6880|0
+723|Tuensang Town 8|Nagaland|26.0584|95.2431|0
+724|Kohima Town 9|Nagaland|25.9585|93.2474|0
+725|Dimapur Town 10|Nagaland|25.5918|93.8984|0
+726|Mokokchung Town 11|Nagaland|26.4438|93.7775|0
+727|Bhubaneswar Town 1|Odisha|20.6588|86.1632|0
+728|Cuttack Town 2|Odisha|20.7004|85.8345|0
+729|Rourkela Town 3|Odisha|21.4497|84.1894|0
+730|Berhampur Town 4|Odisha|19.9621|84.5800|0
+731|Sambalpur Town 5|Odisha|20.9041|84.8489|0
+732|Puri Town 6|Odisha|18.9470|85.9068|0
+733|Balasore Town 7|Odisha|21.8855|87.8130|0
+734|Angul Town 8|Odisha|21.2700|85.1749|0
+735|Bhubaneswar Town 9|Odisha|21.1327|85.7362|0
+736|Cuttack Town 10|Odisha|21.2220|85.3104|0
+737|Rourkela Town 11|Odisha|23.1499|84.7725|0
+738|Berhampur Town 12|Odisha|18.8065|84.2688|0
+739|Sambalpur Town 13|Odisha|20.8246|84.2103|0
+740|Puri Town 14|Odisha|20.4732|84.9836|0
+741|Balasore Town 15|Odisha|21.4151|87.0312|0
+742|Angul Town 16|Odisha|20.0136|84.2825|0
+743|Bhubaneswar Town 17|Odisha|20.1761|86.2612|0
+744|Cuttack Town 18|Odisha|20.4428|85.5662|0
+745|Rourkela Town 19|Odisha|22.5708|84.0044|0
+746|Berhampur Town 20|Odisha|20.0738|84.2972|0
+747|Sambalpur Town 21|Odisha|22.0650|84.1075|0
+748|Puri Town 22|Odisha|20.0022|85.9283|0
+749|Chandigarh (PB) Town 1|Punjab|30.3439|76.3634|0
+750|Ludhiana Town 2|Punjab|31.7733|75.9997|0
+751|Amritsar Town 3|Punjab|31.7965|74.6343|0
+752|Jalandhar Town 4|Punjab|31.8844|74.9942|0
+753|Patiala Town 5|Punjab|30.9535|75.6096|0
+754|Bathinda Town 6|Punjab|30.9939|74.3318|0
+755|Hoshiarpur Town 7|Punjab|31.5241|75.2816|0
+756|Mohali Town 8|Punjab|30.4809|77.1213|0
+757|Pathankot Town 9|Punjab|31.9636|75.1607|0
+758|Chandigarh (PB) Town 10|Punjab|30.3721|76.4502|0
+759|Ludhiana Town 11|Punjab|30.0723|76.4331|0
+760|Amritsar Town 12|Punjab|32.0495|74.1647|0
+761|Jalandhar Town 13|Punjab|32.0210|74.8496|0
+762|Patiala Town 14|Punjab|30.7800|76.7617|0
+763|Bathinda Town 15|Punjab|29.4561|74.6523|0
+764|Hoshiarpur Town 16|Punjab|31.1100|75.6125|0
+765|Mohali Town 17|Punjab|30.6890|76.0471|0
+766|Pathankot Town 18|Punjab|32.1502|75.1668|0
+767|Chandigarh (PB) Town 19|Punjab|30.7711|77.2819|0
+768|Ludhiana Town 20|Punjab|31.0979|75.1315|0
+769|Amritsar Town 21|Punjab|32.4721|74.5642|0
+770|Jalandhar Town 22|Punjab|32.0335|75.2340|0
+771|Patiala Town 23|Punjab|29.7768|75.9586|0
+772|Bathinda Town 24|Punjab|29.5575|74.1976|0
+773|Hoshiarpur Town 25|Punjab|31.3249|76.8170|0
+774|Jaipur Town 1|Rajasthan|26.6227|74.9322|0
+775|Jodhpur Town 2|Rajasthan|26.4813|73.5264|0
+776|Udaipur Town 3|Rajasthan|23.8495|73.7464|0
+777|Kota Town 4|Rajasthan|25.3197|76.3341|0
+778|Ajmer Town 5|Rajasthan|26.5078|75.2835|0
+779|Bikaner Town 6|Rajasthan|27.8329|72.7888|0
+780|Alwar Town 7|Rajasthan|26.8088|75.8042|0
+781|Bharatpur Town 8|Rajasthan|26.8123|77.4371|0
+782|Sikar Town 9|Rajasthan|28.2000|75.4811|0
+783|Pali Town 10|Rajasthan|25.7882|74.1193|0
+784|Sri Ganganagar Town 11|Rajasthan|30.3539|73.6118|0
+785|Bhilwara Town 12|Rajasthan|24.9294|75.5246|0
+786|Chittorgarh Town 13|Rajasthan|25.1875|73.9220|0
+787|Jaipur Town 14|Rajasthan|27.3816|75.8905|0
+788|Jodhpur Town 15|Rajasthan|26.2519|72.2026|0
+789|Udaipur Town 16|Rajasthan|25.1630|73.6097|0
+790|Kota Town 17|Rajasthan|25.9653|75.2569|0
+791|Ajmer Town 18|Rajasthan|26.6352|74.4120|0
+792|Bikaner Town 19|Rajasthan|27.4638|73.4908|0
+793|Alwar Town 20|Rajasthan|26.6577|76.1835|0
+794|Bharatpur Town 21|Rajasthan|26.5271|77.6279|0
+795|Sikar Town 22|Rajasthan|28.0938|75.9460|0
+796|Pali Town 23|Rajasthan|25.7897|73.2199|0
+797|Sri Ganganagar Town 24|Rajasthan|30.0881|73.6287|0
+798|Bhilwara Town 25|Rajasthan|24.9401|73.8708|0
+799|Chittorgarh Town 26|Rajasthan|25.3477|75.4505|0
+800|Jaipur Town 27|Rajasthan|27.2659|75.8288|0
+801|Jodhpur Town 28|Rajasthan|26.6830|72.7289|0
+802|Udaipur Town 29|Rajasthan|23.7282|73.0697|0
+803|Kota Town 30|Rajasthan|25.8493|75.4241|0
+804|Ajmer Town 31|Rajasthan|25.6699|74.2285|0
+805|Bikaner Town 32|Rajasthan|27.8939|73.2972|0
+806|Alwar Town 33|Rajasthan|27.3108|75.9639|0
+807|Bharatpur Town 34|Rajasthan|27.6229|77.6963|0
+808|Sikar Town 35|Rajasthan|28.4244|75.9680|0
+809|Pali Town 36|Rajasthan|25.8099|73.7231|0
+810|Gangtok Town 1|Sikkim|27.7496|88.3297|0
+811|Namchi Town 2|Sikkim|26.5102|89.1022|0
+812|Gyalshing Town 3|Sikkim|26.5160|88.2095|0
+813|Mangan Town 4|Sikkim|26.7769|89.1255|0
+814|Gangtok Town 5|Sikkim|27.0018|89.4654|0
+815|Namchi Town 6|Sikkim|28.0475|87.5719|0
+816|Gyalshing Town 7|Sikkim|27.1921|88.6825|0
+817|Mangan Town 8|Sikkim|28.0507|87.8217|0
+818|Gangtok Town 9|Sikkim|26.9297|88.1257|0
+819|Namchi Town 10|Sikkim|27.8130|88.4350|0
+820|Gyalshing Town 11|Sikkim|26.5072|88.4694|0
+821|Chennai Town 1|Tamil Nadu|13.1138|80.9335|0
+822|Coimbatore Town 2|Tamil Nadu|10.9175|77.6971|0
+823|Madurai Town 3|Tamil Nadu|9.3784|77.8084|0
+824|Tiruchirappalli Town 4|Tamil Nadu|10.6851|79.5023|0
+825|Salem Town 5|Tamil Nadu|11.0145|78.1807|0
+826|Tirunelveli Town 6|Tamil Nadu|9.0484|76.9697|0
+827|Erode Town 7|Tamil Nadu|10.7635|76.8719|0
+828|Vellore Town 8|Tamil Nadu|13.1451|79.4257|0
+829|Thoothukudi Town 9|Tamil Nadu|8.0118|78.4885|0
+830|Dindigul Town 10|Tamil Nadu|9.7076|78.5028|0
+831|Thanjavur Town 11|Tamil Nadu|11.4825|79.5741|0
+832|Karur Town 12|Tamil Nadu|11.3476|77.6831|0
+833|Nagercoil Town 13|Tamil Nadu|7.2903|77.8310|0
+834|Kanchipuram Town 14|Tamil Nadu|13.0539|79.0783|0
+835|Cuddalore Town 15|Tamil Nadu|12.6160|80.0167|0
+836|Chennai Town 16|Tamil Nadu|13.2591|79.8031|0
+837|Coimbatore Town 17|Tamil Nadu|10.3173|76.3428|0
+838|Madurai Town 18|Tamil Nadu|10.1520|78.6554|0
+839|Tiruchirappalli Town 19|Tamil Nadu|10.2437|78.3806|0
+840|Salem Town 20|Tamil Nadu|11.0645|77.8396|0
+841|Tirunelveli Town 21|Tamil Nadu|8.0458|77.0693|0
+842|Erode Town 22|Tamil Nadu|12.1822|78.1485|0
+843|Vellore Town 23|Tamil Nadu|12.0740|79.2041|0
+844|Thoothukudi Town 24|Tamil Nadu|8.0785|78.6023|0
+845|Dindigul Town 25|Tamil Nadu|10.8613|78.7748|0
+846|Thanjavur Town 26|Tamil Nadu|10.9849|79.2814|0
+847|Karur Town 27|Tamil Nadu|11.4684|78.3241|0
+848|Nagercoil Town 28|Tamil Nadu|7.5138|78.2134|0
+849|Kanchipuram Town 29|Tamil Nadu|12.0783|78.9935|0
+850|Cuddalore Town 30|Tamil Nadu|10.8854|80.6135|0
+851|Chennai Town 31|Tamil Nadu|12.7244|80.7179|0
+852|Coimbatore Town 32|Tamil Nadu|10.8229|76.0633|0
+853|Madurai Town 33|Tamil Nadu|9.1143|78.8104|0
+854|Tiruchirappalli Town 34|Tamil Nadu|10.6997|79.1410|0
+855|Salem Town 35|Tamil Nadu|10.8548|77.6184|0
+856|Tirunelveli Town 36|Tamil Nadu|8.2314|77.0940|0
+857|Erode Town 37|Tamil Nadu|11.4184|77.0791|0
+858|Vellore Town 38|Tamil Nadu|12.6499|78.2371|0
+859|Thoothukudi Town 39|Tamil Nadu|8.0871|77.4480|0
+860|Dindigul Town 40|Tamil Nadu|10.4353|77.7482|0
+861|Thanjavur Town 41|Tamil Nadu|10.3361|78.9333|0
+862|Hyderabad Town 1|Telangana|17.9021|78.6635|0
+863|Warangal Town 2|Telangana|17.5699|79.2362|0
+864|Nizamabad Town 3|Telangana|18.3336|78.8348|0
+865|Karimnagar Town 4|Telangana|17.8471|78.6640|0
+866|Khammam Town 5|Telangana|17.0822|79.6915|0
+867|Ramagundam Town 6|Telangana|18.0406|79.5227|0
+868|Mahbubnagar Town 7|Telangana|16.7423|78.0394|0
+869|Nalgonda Town 8|Telangana|16.5909|80.0876|0
+870|Adilabad Town 9|Telangana|20.1611|78.8926|0
+871|Siddipet Town 10|Telangana|18.5258|78.7200|0
+872|Hyderabad Town 11|Telangana|17.4417|79.0981|0
+873|Warangal Town 12|Telangana|18.8063|79.6661|0
+874|Nizamabad Town 13|Telangana|18.8126|77.2798|0
+875|Karimnagar Town 14|Telangana|18.9578|78.5009|0
+876|Khammam Town 15|Telangana|17.5706|79.5441|0
+877|Ramagundam Town 16|Telangana|18.8032|79.1516|0
+878|Mahbubnagar Town 17|Telangana|16.8580|77.5707|0
+879|Nalgonda Town 18|Telangana|17.9059|79.5402|0
+880|Adilabad Town 19|Telangana|18.8304|78.7204|0
+881|Siddipet Town 20|Telangana|18.6202|79.4233|0
+882|Hyderabad Town 21|Telangana|17.7238|78.4114|0
+883|Warangal Town 22|Telangana|17.1654|79.6928|0
+884|Nizamabad Town 23|Telangana|18.3637|77.4431|0
+885|Karimnagar Town 24|Telangana|18.8739|78.5844|0
+886|Khammam Town 25|Telangana|16.6707|79.4393|0
+887|Ramagundam Town 26|Telangana|18.8229|78.6660|0
+888|Mahbubnagar Town 27|Telangana|16.5044|78.5720|0
+889|Nalgonda Town 28|Telangana|17.6166|78.8600|0
+890|Agartala Town 1|Tripura|24.6265|91.2160|0
+891|Udaipur (TR) Town 2|Tripura|23.2921|92.1932|0
+892|Dharmanagar Town 3|Tripura|24.8107|92.7048|0
+893|Kailashahar Town 4|Tripura|24.8518|92.5121|0
+894|Agartala Town 5|Tripura|24.4597|91.6119|0
+895|Udaipur (TR) Town 6|Tripura|23.4126|92.2290|0
+896|Dharmanagar Town 7|Tripura|23.9951|91.9639|0
+897|Kailashahar Town 8|Tripura|23.7105|91.1705|0
+898|Agartala Town 9|Tripura|23.4532|91.8982|0
+899|Udaipur (TR) Town 10|Tripura|24.1367|91.4981|0
+900|Dharmanagar Town 11|Tripura|23.9337|91.2756|0
+901|Lucknow Town 1|Uttar Pradesh|25.9750|80.9040|0
+902|Kanpur Town 2|Uttar Pradesh|26.4400|79.8611|0
+903|Agra Town 3|Uttar Pradesh|26.5625|78.4017|0
+904|Varanasi Town 4|Uttar Pradesh|25.7120|82.3993|0
+905|Prayagraj Town 5|Uttar Pradesh|25.5191|81.6088|0
+906|Meerut Town 6|Uttar Pradesh|29.2236|77.4141|0
+907|Ghaziabad Town 7|Uttar Pradesh|28.6402|77.7021|0
+908|Noida Town 8|Uttar Pradesh|27.8688|77.1809|0
+909|Bareilly Town 9|Uttar Pradesh|28.2160|79.6232|0
+910|Aligarh Town 10|Uttar Pradesh|27.3083|78.2009|0
+911|Moradabad Town 11|Uttar Pradesh|29.5606|79.6104|0
+912|Saharanpur Town 12|Uttar Pradesh|30.7263|77.6692|0
+913|Gorakhpur Town 13|Uttar Pradesh|26.5887|83.9727|0
+914|Firozabad Town 14|Uttar Pradesh|27.7584|77.5414|0
+915|Jhansi Town 15|Uttar Pradesh|25.0890|78.4621|0
+916|Muzaffarnagar Town 16|Uttar Pradesh|28.6640|76.8672|0
+917|Mathura Town 17|Uttar Pradesh|27.8260|77.8733|0
+918|Ayodhya Town 18|Uttar Pradesh|27.5620|82.5819|0
+919|Ballia Town 19|Uttar Pradesh|25.6463|84.6467|0
+920|Lucknow Town 20|Uttar Pradesh|26.0220|80.9977|0
+921|Kanpur Town 21|Uttar Pradesh|26.9601|80.9998|0
+922|Agra Town 22|Uttar Pradesh|27.7786|78.1360|0
+923|Varanasi Town 23|Uttar Pradesh|26.1860|83.2847|0
+924|Prayagraj Town 24|Uttar Pradesh|25.4882|81.7427|0
+925|Meerut Town 25|Uttar Pradesh|29.4835|76.9341|0
+926|Ghaziabad Town 26|Uttar Pradesh|28.5416|78.2657|0
+927|Noida Town 27|Uttar Pradesh|28.8916|76.7930|0
+928|Bareilly Town 28|Uttar Pradesh|28.5134|79.5624|0
+929|Aligarh Town 29|Uttar Pradesh|28.6116|77.3152|0
+930|Moradabad Town 30|Uttar Pradesh|28.7216|78.9619|0
+931|Saharanpur Town 31|Uttar Pradesh|29.8257|78.2633|0
+932|Gorakhpur Town 32|Uttar Pradesh|26.4897|84.0086|0
+933|Firozabad Town 33|Uttar Pradesh|26.5884|77.6872|0
+934|Jhansi Town 34|Uttar Pradesh|25.1868|78.8809|0
+935|Muzaffarnagar Town 35|Uttar Pradesh|29.0101|77.0878|0
+936|Mathura Town 36|Uttar Pradesh|28.3346|78.4598|0
+937|Ayodhya Town 37|Uttar Pradesh|26.4687|82.6709|0
+938|Ballia Town 38|Uttar Pradesh|25.3272|84.6981|0
+939|Lucknow Town 39|Uttar Pradesh|26.0435|81.2096|0
+940|Kanpur Town 40|Uttar Pradesh|26.8681|79.5385|0
+941|Agra Town 41|Uttar Pradesh|26.8372|77.1261|0
+942|Varanasi Town 42|Uttar Pradesh|25.7112|82.0870|0
+943|Prayagraj Town 43|Uttar Pradesh|25.2476|81.8430|0
+944|Meerut Town 44|Uttar Pradesh|29.4730|78.0203|0
+945|Ghaziabad Town 45|Uttar Pradesh|28.2604|77.9519|0
+946|Noida Town 46|Uttar Pradesh|29.2984|77.1835|0
+947|Bareilly Town 47|Uttar Pradesh|28.3558|79.6636|0
+948|Aligarh Town 48|Uttar Pradesh|27.9838|77.6642|0
+949|Moradabad Town 49|Uttar Pradesh|29.6279|78.9817|0
+950|Saharanpur Town 50|Uttar Pradesh|29.2785|77.0333|0
+951|Gorakhpur Town 51|Uttar Pradesh|27.0587|82.9848|0
+952|Firozabad Town 52|Uttar Pradesh|28.0390|77.5909|0
+953|Dehradun Town 1|Uttarakhand|29.8735|78.8199|0
+954|Haridwar Town 2|Uttarakhand|30.6885|78.6863|0
+955|Rishikesh Town 3|Uttarakhand|29.8204|78.4765|0
+956|Nainital Town 4|Uttarakhand|28.9280|78.8525|0
+957|Haldwani Town 5|Uttarakhand|29.8156|78.7083|0
+958|Roorkee Town 6|Uttarakhand|29.4800|77.3978|0
+959|Rudrapur Town 7|Uttarakhand|29.1911|79.8717|0
+960|Dehradun Town 8|Uttarakhand|30.0017|77.4568|0
+961|Haridwar Town 9|Uttarakhand|30.1614|78.5560|0
+962|Rishikesh Town 10|Uttarakhand|30.6771|77.7913|0
+963|Nainital Town 11|Uttarakhand|28.8960|79.0983|0
+964|Haldwani Town 12|Uttarakhand|29.5237|79.8387|0
+965|Roorkee Town 13|Uttarakhand|30.3664|77.1367|0
+966|Rudrapur Town 14|Uttarakhand|28.5989|78.6842|0
+967|Dehradun Town 15|Uttarakhand|30.7795|77.5636|0
+968|Haridwar Town 16|Uttarakhand|30.2151|79.0454|0
+969|Rishikesh Town 17|Uttarakhand|30.8743|77.4325|0
+970|Nainital Town 18|Uttarakhand|29.1616|79.1690|0
+971|Haldwani Town 19|Uttarakhand|29.2823|80.0101|0
+972|Kolkata Town 1|West Bengal|22.4311|88.5673|0
+973|Howrah Town 2|West Bengal|22.3766|88.6461|0
+974|Durgapur Town 3|West Bengal|22.8568|88.1213|0
+975|Asansol Town 4|West Bengal|24.4092|86.3175|0
+976|Siliguri Town 5|West Bengal|27.2141|88.8266|0
+977|Darjeeling Town 6|West Bengal|27.6514|88.4560|0
+978|Bardhaman Town 7|West Bengal|22.5740|87.1547|0
+979|Malda Town 8|West Bengal|24.5185|88.1083|0
+980|Kharagpur Town 9|West Bengal|22.2363|87.3739|0
+981|Haldia Town 10|West Bengal|21.5096|88.6149|0
+982|Kolkata Town 11|West Bengal|22.2214|87.9957|0
+983|Howrah Town 12|West Bengal|22.9091|89.1524|0
+984|Durgapur Town 13|West Bengal|23.5260|86.9644|0
+985|Asansol Town 14|West Bengal|22.8890|86.6633|0
+986|Siliguri Town 15|West Bengal|25.8310|88.4009|0
+987|Darjeeling Town 16|West Bengal|27.7607|88.9215|0
+988|Bardhaman Town 17|West Bengal|22.4553|87.4857|0
+989|Malda Town 18|West Bengal|25.4649|87.3655|0
+990|Kharagpur Town 19|West Bengal|22.2583|86.5473|0
+991|Haldia Town 20|West Bengal|21.5066|87.6016|0
+992|Kolkata Town 21|West Bengal|22.9362|89.2018|0
+993|Howrah Town 22|West Bengal|22.9932|87.9628|0
+994|Durgapur Town 23|West Bengal|24.0356|87.9750|0
+995|Asansol Town 24|West Bengal|22.8635|86.8806|0
+996|Siliguri Town 25|West Bengal|26.8477|88.4720|0
+997|Darjeeling Town 26|West Bengal|26.6451|88.3391|0
+998|Bardhaman Town 27|West Bengal|23.2127|87.4638|0
+999|Malda Town 28|West Bengal|24.8625|87.8572|0

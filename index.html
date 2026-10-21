@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NAVI — Smart Navigation System</title>
+  <meta name="description" content="1,000-node Indian road network solved with Dijkstra, Bellman-Ford, A*, BFS, DFS, Floyd-Warshall — no maps API.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <!-- ═══════════ LOADING OVERLAY ═══════════ -->
+  <div id="loading-overlay" class="loading-overlay">
+    <div class="loader-content">
+      <div class="loader-ring"></div>
+      <h2 class="loader-title">NAVI</h2>
+      <p class="loader-text">Initializing 1,000-node graph…</p>
+    </div>
+  </div>
+
+  <!-- ═══════════ PARTICLE BACKGROUND ═══════════ -->
+  <canvas id="particles-canvas" class="particles-canvas"></canvas>
+
+  <!-- ═══════════ HEADER ═══════════ -->
+  <header class="app-header">
+    <div class="header-left">
+      <h1 class="logo">
+        <span class="logo-icon">◈</span>
+        <span class="logo-text">NAVI</span>
+      </h1>
+      <span class="logo-subtitle">Smart Navigation System</span>
+    </div>
+    <div class="header-center">
+      <nav class="main-nav" id="main-nav">
+        <button class="nav-btn active" data-tab="planner" id="nav-planner">
+          <span class="nav-icon">🗺️</span><span class="nav-label">Political Map</span>
+        </button>
+      </nav>
+    </div>
+    <div class="header-right">
+      <button class="icon-btn" id="theme-toggle" title="Toggle theme">
+        <span class="theme-icon">🌙</span>
+      </button>
+      <div class="header-badge">
+        <span class="badge-dot"></span>
+        <span class="badge-text">No API</span>
+      </div>
+    </div>
+  </header>
+
+  <!-- ═══════════ MAIN CONTENT ═══════════ -->
+  <main class="app-main">
+
+    <!-- ─── TAB: ROUTE PLANNER & MAP ─── -->
+    <section class="tab-panel active" id="tab-planner">
+      <div class="planner-layout">
+
+        <!-- Left: Controls -->
+        <div class="planner-controls">
+          <div class="glass-card control-card">
+            <h2 class="card-title">
+              <span class="title-icon">📍</span> Route Planner
+            </h2>
+            <p class="card-subtitle">Plan trips across 1,000 Indian cities with graph algorithms</p>
+
+            <div class="preset-pills">
+              <span class="preset-label">Quick Routes:</span>
+              <button class="preset-btn" data-src="Kadapa" data-dst="Vijayawada">Kadapa ➔ Vijayawada</button>
+              <button class="preset-btn" data-src="Delhi" data-dst="Mumbai">Delhi ➔ Mumbai</button>
+              <button class="preset-btn" data-src="Bengaluru" data-dst="Hyderabad">Bengaluru ➔ Hyd</button>
+              <button class="preset-btn" data-src="Chennai" data-dst="Kolkata">Chennai ➔ Kolkata</button>
+            </div>
+
+            <div class="input-group">
+              <label class="input-label" for="source-input">Source City</label>
+              <div class="autocomplete-wrapper">
+                <input type="text" id="source-input" class="glass-input" placeholder="e.g. Kadapa" autocomplete="off" spellcheck="false">
+                <div class="suggestions-dropdown" id="source-suggestions"></div>
+              </div>
+            </div>
+
+            <button class="swap-btn" id="swap-btn" title="Swap cities">⇅</button>
+
+            <div class="input-group">
+              <label class="input-label" for="dest-input">Destination City</label>
+              <div class="autocomplete-wrapper">
+                <input type="text" id="dest-input" class="glass-input" placeholder="e.g. Vijayawada" autocomplete="off" spellcheck="false">
+                <div class="suggestions-dropdown" id="dest-suggestions"></div>
+              </div>
+            </div>
+
+            <div class="selectors-row">
+              <div class="input-group half">
+                <label class="input-label" for="criterion-select">Optimize For</label>
+                <select id="criterion-select" class="glass-select">
+                  <option value="balanced">⚖️ Balanced Route</option>
+                  <option value="distance">📏 Shortest Distance</option>
+                  <option value="time">⏱️ Fastest Time</option>
+                  <option value="fuel">⛽ Least Fuel</option>
+                  <option value="toll">💰 Cheapest Toll</option>
+                  <option value="traffic">🚦 Least Traffic</option>
+                  <option value="safest">🛡️ Safest Route</option>
+                  <option value="scenic">🏞️ Most Scenic</option>
+                </select>
+              </div>
+              <div class="input-group half">
+                <label class="input-label" for="scenario-select">Traffic Scenario</label>
+                <select id="scenario-select" class="glass-select">
+                  <option value="afternoon">☀️ Afternoon (1.1×)</option>
+                  <option value="morning">🌅 Morning Rush (1.4×)</option>
+                  <option value="evening">🌆 Evening Rush (1.6×)</option>
+                  <option value="night">🌙 Night (0.8×)</option>
+                  <option value="weekend">🎉 Weekend (1.2×)</option>
+                  <option value="festival">🪔 Festival (1.8×)</option>
+                  <option value="rain">🌧️ Heavy Rain (1.5×)</option>
+                  <option value="accident">🚗 Accident (2.0×)</option>
+                  <option value="construction">🔨 Construction (1.7×)</option>
+                  <option value="vip_movement">🚔 VIP Movement (1.9×)</option>
+                </select>
+              </div>
+            </div>
+
+            <button class="primary-btn" id="find-routes-btn">
+              <span class="btn-icon">🔍</span>
+              <span class="btn-text">Compute Optimal Route</span>
+              <span class="btn-shortcut">Ctrl+Enter</span>
+            </button>
+          </div>
+
+          <!-- Route Results -->
+          <div id="route-results" class="route-results"></div>
+        </div>
+
+        <!-- Right: Map -->
+        <div class="planner-map">
+          <div class="glass-card map-card">
+            <div class="map-header">
+              <div class="map-title-wrap">
+                <h3 class="map-title">🎨 Colourful Indian Political Map</h3>
+                <span class="map-subtitle-badge">28 States • 1,000 Cities</span>
+              </div>
+              <div class="map-controls">
+                <button class="map-ctrl-btn active" id="map-toggle-polygons" title="Toggle Political Map Fills">
+                  <span>🎨 State Regions</span>
+                </button>
+                <button class="map-ctrl-btn active" id="map-toggle-roads" title="Toggle Highways Network">
+                  <span>🛣️ Highways</span>
+                </button>
+                <button class="map-ctrl-btn icon-only" id="map-zoom-in" title="Zoom in">+</button>
+                <button class="map-ctrl-btn icon-only" id="map-zoom-out" title="Zoom out">−</button>
+                <button class="map-ctrl-btn icon-only" id="map-reset" title="Reset view">⟲</button>
+              </div>
+            </div>
+            <canvas id="map-canvas" class="map-canvas"></canvas>
+            <div class="map-tooltip" id="map-tooltip"></div>
+            <div class="map-legend" id="map-legend"></div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- ═══════════ FOOTER ═══════════ -->
+  <footer class="app-footer">
+    <p class="footer-note">NAVI — 1,000-city Indian road network. Zero third-party map APIs.</p>
+  </footer>
+
+  <!-- ═══════════ TOAST CONTAINER ═══════════ -->
+  <div id="toast-container" class="toast-container"></div>
+
+  <!-- ═══════════ SCRIPTS ═══════════ -->
+  <script src="js/india_map_data.js"></script>
+  <script src="js/data.js"></script>
+  <script src="js/graph.js"></script>
+  <script src="js/algorithms.js"></script>
+  <script src="js/traffic.js"></script>
+  <script src="js/route.js"></script>
+  <script src="js/map.js"></script>
+  <script src="js/ui.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
