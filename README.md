@@ -1,4 +1,4 @@
-# Smart Navigation System — DSA Route Optimizer
+# Smart-Navigation-by-using-A-star-Algo.-BFS
 
 A final-year Computer Science project that solves route planning across the
 Indian road network **using graph algorithms only** — no Google Maps, no

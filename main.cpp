@@ -1,4 +1,4 @@
-// Smart Navigation System — DSA Route Optimizer
+// Smart-Navigation-by-using-A-star-Algo.-BFS
 // Interactive CLI. Loads the India road network from ./data/*.txt and lets
 // the user plan routes, compare algorithms, or view statistics.
 
