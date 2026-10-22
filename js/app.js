@@ -92,16 +92,12 @@
     if (loaderText) loaderText.textContent = 'Initializing traffic scenarios…';
     const trafficMgr = new TrafficManager();
 
-    // Init map visualization
-    if (loaderText) loaderText.textContent = 'Rendering map…';
-    const map = new MapVisualization('map-canvas', graph);
-
     // Init UI controller
     if (loaderText) loaderText.textContent = 'Ready!';
-    const ui = new UIController(graph, map, trafficMgr);
+    const ui = new UIController(graph, trafficMgr);
 
     // Store global reference
-    window.Navi = { graph, map, ui, traffic: trafficMgr, data: NaviData };
+    window.Navi = { graph, ui, traffic: trafficMgr, data: NaviData };
 
     // Hide loading overlay
     setTimeout(() => {

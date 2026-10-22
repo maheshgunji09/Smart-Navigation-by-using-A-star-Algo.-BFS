@@ -5,9 +5,8 @@
    ═══════════════════════════════════════════════════ */
 
 class UIController {
-  constructor(graph, map, trafficMgr) {
+  constructor(graph, trafficMgr) {
     this.graph = graph;
-    this.map = map;
     this.traffic = trafficMgr;
     this.history = JSON.parse(localStorage.getItem('navi_history') || '[]');
     this.favourites = JSON.parse(localStorage.getItem('navi_favourites') || '[]');
@@ -173,10 +172,6 @@ class UIController {
     // Render route cards
     this._renderRoutes(routes, sourceName, destName);
 
-    // Highlight on map
-    this.map.setRoutes(routes);
-    this.map.focusOnRoute(routes[0]);
-
     this._toast(`Found ${routes.length} route${routes.length > 1 ? 's' : ''} from ${sourceName} to ${destName}`, 'success');
   }
 
@@ -241,13 +236,10 @@ class UIController {
       });
     });
 
-    // Click route card to highlight on map
+    // Click route card to highlight
     container.querySelectorAll('.route-card').forEach(card => {
       card.addEventListener('click', (e) => {
         if (e.target.closest('.route-actions')) return;
-        const idx = parseInt(card.dataset.routeIndex);
-        this.map.setRoutes([routes[idx]]);
-        this.map.focusOnRoute(routes[idx]);
       });
     });
 
@@ -535,7 +527,6 @@ class UIController {
       document.documentElement.setAttribute('data-theme', next);
       localStorage.setItem('navi_theme', next);
       if (icon) icon.textContent = next === 'dark' ? '🌙' : '☀️';
-      this.map.render();
     });
   }
 
